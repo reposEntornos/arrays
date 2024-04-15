@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class InsertarModulosRedim {
 
+	// Este programa inserta elementos en un array redimensionando
 	static Scanner sc = new Scanner(System.in);
 	// La ponemos estática para que no pierda los valores ya almacenados
 	static String [] vModulos = new String[0];	
